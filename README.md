@@ -5,6 +5,9 @@ goodread:
 https://www.journaldev.com/9170/restful-web-services-tutorial-java
 https://www.tutorialspoint.com/restful/restful_resources.htm
 
+REST and Spring:
+https://dzone.com/articles/creating-a-rest-api-with-java-and-spring
+
 practise programs on :https://www.tutorialspoint.com/restful/restful_methods.htm
 
 Restful Web Services is a stateless client-server architecture where web services are resources and can be identified by their URIs.
